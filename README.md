@@ -32,6 +32,8 @@ This repository contains data from the **Morel-IA** project, which focuses on ve
 ## Project summary, description, or abstract: 📚
 The primary goal of the **Morel-IA** project is to revolutionize traffic management in Morelia by providing precise and continuous data on vehicle flow. The data collected serves to improve urban planning, optimize traffic infrastructure, and enhance road safety by providing actionable insights based on real-time traffic patterns. The dataset not only includes vehicle counts but also offers detailed information on vehicle types, speeds, and movement directions, making it a comprehensive tool for traffic analysis and decision-making.
 
+[![Watch a video demonstration](https://img.youtube.com/vi/ISWTuto5ocA/maxresdefault.jpg)](https://youtu.be/ISWTuto5ocA)
+
 # The dataset includes the following columns: 🔥
 - Vehicle ID <br />
 - Timestamp <br />
