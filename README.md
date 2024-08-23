@@ -54,13 +54,13 @@ The repository contains multiple CSV files in the `data/` directory:
 - **processed/**: Processed data files ready for analysis, including additional computed fields such as average speed and traffic density.
 
 ## Repository structure
-Morel-IA_Vehicle_Counting/
-│
-├── README.md
-├── data/
-│   ├── raw/
-│   │   ├── MS1_Calzada_La_Huerta_YYYY-MM-DD.csv
-│   │   ├── MS2_Camelinas_Avenue_YYYY-MM-DD.csv
+Morel-IA_Vehicle_Counting/ </br>
+│ </br>
+├── README.md </br>
+├── data/ </br>
+│   ├── raw/ </br>
+│   │   ├── MS1_Calzada_La_Huerta_YYYY-MM-DD.csv </br>
+│   │   ├── MS2_Camelinas_Avenue_YYYY-MM-DD.csv </br>
 │   │   └── ... 
 
 Please cite the following paper if you use this dataset in your research:
