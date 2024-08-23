@@ -1,5 +1,5 @@
 # Morel-IA_Vehicle_Counting (Vehicle Counting and Traffic Analysis in Morelia, Michoacán) 🚗
-![](TrafficFlow.png)
+![](TrafficFlow.jpg)
 
 ## Researchers 🧑‍🔬
 - *Dr. José A. Guzmán-Torres* <br />
