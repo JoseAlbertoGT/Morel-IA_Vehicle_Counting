@@ -27,7 +27,9 @@ https://orcid.org/0000-0002-3301-4949
 *Researchers National System México*
 
 ## Description: 📝
-This repository contains data from the **Morel-IA** project, which focuses on vehicle counting and traffic analysis in the city of Morelia, Michoacán. The dataset was collected using advanced object detection algorithms, specifically the YOLO family of models, to monitor and analyze vehicle traffic in real-time across various strategic locations in the city.
+
+<div style="text-align: justify"> This repository contains data from the **Morel-IA** project, which focuses on vehicle counting and traffic analysis in the city of Morelia, Michoacán. The dataset was collected using advanced object detection algorithms, specifically the YOLO family of models, to monitor and analyze vehicle traffic in real-time across various strategic locations in the city.
+</div>
 
 ## Project summary, description, or abstract: 📚
 The primary goal of the **Morel-IA** project is to revolutionize traffic management in Morelia by providing precise and continuous data on vehicle flow. The data collected serves to improve urban planning, optimize traffic infrastructure, and enhance road safety by providing actionable insights based on real-time traffic patterns. The dataset not only includes vehicle counts but also offers detailed information on vehicle types, speeds, and movement directions, making it a comprehensive tool for traffic analysis and decision-making.
