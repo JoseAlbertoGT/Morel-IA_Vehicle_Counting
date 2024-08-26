@@ -32,7 +32,9 @@ https://orcid.org/0000-0002-3301-4949
 </p>
 
 ## Project summary, description, or abstract: 📚
+<p align="justify">
 The primary goal of the **Morel-IA** project is to revolutionize traffic management in Morelia by providing precise and continuous data on vehicle flow. The data collected serves to improve urban planning, optimize traffic infrastructure, and enhance road safety by providing actionable insights based on real-time traffic patterns. The dataset not only includes vehicle counts but also offers detailed information on vehicle types, speeds, and movement directions, making it a comprehensive tool for traffic analysis and decision-making.
+</p>
 
 ## Video demonstration
 [![Watch a video demonstration](https://img.youtube.com/vi/ISWTuto5ocA/maxresdefault.jpg)](https://youtu.be/ISWTuto5ocA)
@@ -49,14 +51,18 @@ The primary goal of the **Morel-IA** project is to revolutionize traffic managem
 Each row represents a vehicle detected at a specific monitoring station, with data captured at various times and locations across Morelia.
 
 # This dataset can aid the urban planning and traffic management field in several ways: ✨
+<p align="justify">
 - **Traffic Flow Analysis**: This dataset allows researchers and urban planners to study traffic patterns, identify congestion points, and propose solutions for improved traffic flow in urban areas.
 - **Safety Enhancements**: By analyzing vehicle speeds and directions, the dataset can be used to identify high-risk areas and inform road safety improvements.
 - **Infrastructure Planning**: The data supports the development of new road infrastructures, optimization of traffic signals, and better allocation of resources for road maintenance.
+</p>
 
 ## Description of files: ✍️
 The repository contains multiple CSV files in the `data/` directory:
+<p align="justify">
 - **raw/**: Raw data files with initial vehicle counts and details for each monitoring station and date.
 - **processed/**: Processed data files ready for analysis, including additional computed fields such as average speed and traffic density.
+</p>
 
 ## Repository structure 🔥
 Morel-IA_Vehicle_Counting/ <br />
