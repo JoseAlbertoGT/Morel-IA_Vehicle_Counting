@@ -1,0 +1,3 @@
+python detect_track_speedcalc_Beto.py --source videos/Libramiento_Juarez_SD.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.35 --img-size 1280 --device 0 --view-img --class  2 5 7
+
+python detect_track_speedcalc_Beto_double_via.py --source videos/Calzada_Huerta_noche_SD.mp4 --cfg cfg/yolor_csp.cfg --weights yolor_csp.pt --conf 0.35 --img-size 1280 --device 0 --class 2 5 7 --iou-thres 0.6 --conf-thres 0.5
