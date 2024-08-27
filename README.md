@@ -28,7 +28,7 @@ https://orcid.org/0000-0002-3301-4949
 
 ## Description: 📝
 
-<p align="justify"> This repository contains data from the **Morel-IA** project, which focuses on vehicle counting and traffic analysis in the city of Morelia, Michoacán. The dataset was collected using advanced object detection algorithms, specifically the YOLO family of models, to monitor and analyze vehicle traffic in real-time across various strategic locations in the city.
+<p align="justify"> This repository contains data from the **Morel-IA** project, which focuses on vehicle counting and traffic analysis in Morelia, Michoacán. The dataset was collected using advanced object detection algorithms, specifically the YOLO family of models, to monitor and analyze vehicle traffic in real-time across various strategic locations in the city.
 </p>
 
 ## Project summary, description, or abstract: 📚
@@ -72,19 +72,3 @@ Morel-IA_Vehicle_Counting/ <br />
 │   ├── raw/ <br />
 │   │   ├── MS1_Calzada_La_Huerta_YYYY-MM-DD.csv <br />
 │   │   ├── MS2_Camelinas_Avenue_YYYY-MM-DD.csv <br />
-
-Please cite the following paper if you use this dataset in your research:
-
-@article{guzman2024morelia, <br />
-  title = {Morel-IA: An AI-Based Approach for Traffic Management and Vehicle Counting in Morelia, Michoacán}, <br />
-  author={Guzmán-Torres, José A and Domínguez-Mota, Francisco J and Alonso-Guzmán, Elia M and Tinoco-Guerrero, Gerardo and Martínez-Molina, Wilfrido}, <br />
-  journal = {Data in Brief}, <br />
-  volume = {53}, <br />
-  pages = {110220}, <br />
-  year = {2024}, <br />
-  publisher={Elsevier}, <br />
-  doi = {https://doi.org/10.1016/j.dib.2024.110220 }, <br />
-    URL = {https://github.com/JaGuzmanT/Morel-IA_Vehicle_Counting }, <br />
-} <br />
-Git-Hub DOI: 10.5281/zenodo.10553471 <br />
-Enjoy and drive safe!
