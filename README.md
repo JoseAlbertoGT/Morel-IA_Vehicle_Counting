@@ -73,7 +73,7 @@ Morel-IA_Vehicle_Counting/ <br />
 │   │   ├── MS1_Calzada_La_Huerta_YYYY-MM-DD.csv <br />
 │   │   ├── MS2_Camelinas_Avenue_YYYY-MM-DD.csv <br />
 
-## Cite this research
+## Cite this research 🔥🔥
 @Article{ai5030077, </br>
 AUTHOR = {Guzmán-Torres, José A. and Domínguez-Mota, Francisco J. and Tinoco-Guerrero, Gerardo and García-Chiquito, Maybelin C. and Tinoco-Ruíz, José G.}, </br>
 TITLE = {Efficacy Evaluation of You Only Learn One Representation (YOLOR) Algorithm in Detecting, Tracking, and Counting Vehicular Traffic in Real-World Scenarios, the Case of Morelia México: An Artificial Intelligence Approach}, </br>
