@@ -72,3 +72,18 @@ Morel-IA_Vehicle_Counting/ <br />
 │   ├── raw/ <br />
 │   │   ├── MS1_Calzada_La_Huerta_YYYY-MM-DD.csv <br />
 │   │   ├── MS2_Camelinas_Avenue_YYYY-MM-DD.csv <br />
+
+## Cite this research
+@Article{ai5030077,
+AUTHOR = {Guzmán-Torres, José A. and Domínguez-Mota, Francisco J. and Tinoco-Guerrero, Gerardo and García-Chiquito, Maybelin C. and Tinoco-Ruíz, José G.},
+TITLE = {Efficacy Evaluation of You Only Learn One Representation (YOLOR) Algorithm in Detecting, Tracking, and Counting Vehicular Traffic in Real-World Scenarios, the Case of Morelia México: An Artificial Intelligence Approach},
+JOURNAL = {AI},
+VOLUME = {5},
+YEAR = {2024},
+NUMBER = {3},
+PAGES = {1594--1613},
+URL = {https://www.mdpi.com/2673-2688/5/3/77},
+ISSN = {2673-2688},
+ABSTRACT = {This research explores the efficacy of the YOLOR (You Only Learn One Representation) algorithm integrated with the Deep Sort algorithm for real-time vehicle detection, classification, and counting in Morelia, Mexico. The study aims to enhance traffic monitoring and management by leveraging advanced deep learning techniques. The methodology involves deploying the YOLOR model at six key monitoring stations, with varying confidence levels and pre-trained weights, to evaluate its performance across diverse traffic conditions. The results demonstrate that the model is effective compared to other approaches in classifying multiple vehicle types. The combination of YOLOR and Deep Sort proves effective in tracking vehicles and distinguishing between different types, providing valuable data for optimizing traffic flow and infrastructure planning. This innovative approach offers a scalable and precise solution for intelligent traffic management, setting new methodologies for urban traffic monitoring systems.},
+DOI = {10.3390/ai5030077}
+}
